@@ -17,4 +17,4 @@ When a shape is left clicked, it moves to a new random location and the user is 
 When a shape is not pressed, it moves to a new random location and the user receives 1 skull.
 The game ends when the user has 3 skulls.
 When the program displays game over, the shapes stop moving/creating skulls and clicking shapes no longer awards points.
-When the game is over right clicks reset the game.
+When the game is over, right clicks reset the game.
